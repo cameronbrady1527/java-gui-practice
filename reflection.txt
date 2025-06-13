@@ -1,0 +1,48 @@
+# Assignment 4 reflection
+
+## Submitter metadata
+
+Partner 1: Firstname Lastname (NetID)  - Cam Brady cab495
+Partner 2: Firstname Lastname (NetID)  - Grant Wu gw283
+
+Hours spent working on this assignment: 12
+
+## Verification questions
+
+1. When an error occurs while trying to save a score to a file (for example,
+   choosing a file in a read-only system directory), what is the message that is
+   shown in your error dialog?  (note: answers will vary depending on your
+   operating system).
+
+   Answer: "java.io.FileNotFoundException: C:\Users\fishe\Desktop\a5\scores.txt (Access is denied)"
+
+## Reflection questions
+
+1. Which of the Swing tutorial pages did you find the most interesting and/or
+   helpful while implementing your graphical application?
+
+   Answer: We found the MouseEvent page to be not just most helpful in implementing our
+   graphical application, but also the most interesting. It is quite helpful to know all
+   of the ways in which we can make a graphical application responsive to the user. Given
+   the many ways to direct how the user can interact with some application like ours, there
+   are seemingly endless possibilities and features that can be implemented. Especially since
+   Swing applications by comparison to something like web applications (JavaScript, HTML/CSS),
+   it is amazing how, noting that Swing has been around for quite some time and is relatively
+   archaic to some modern web applications, there is so much responsive potential in Swing
+   graphical applications.
+
+2. Are you aware of any areas where your submission is not working as intended?
+   If so, describe the issue and what you did to try to diagnose it.  Otherwise,
+   describe how you verified that your submission fulfilled its requirements.
+
+   We found that our submission is working quite well. We tested our application against
+   the basic requirements included on the A5 handout and although not perfect at first,
+   we found some issues and adjusted our application so that they met the requirements.
+
+3. Did you embellish your program in any way?  If so, describe your changes /
+   improvements.
+
+   N/A. We both found ourselves quite busy the past two weeks and therefore did not have ample
+   time to embellish our program. Given some more time, we would have enjoyed having a high score
+   record and perhaps including some pre-defined "levels of diffculty" as some games, such as
+   Minecraft, have multiple (discrete) difficulties (Peaceful, Easy, Normal, Hard, Hardcore).
